@@ -11,9 +11,23 @@ A recent Computer Engineering graduate with a passion for technology that took r
 *   🧠  I'm learning JavaScript
 *   🤝  I'm open to collaborating on literally anything                 
 
+### Skills 
+<p align="left">
+    <img src="logos\C_Programming_Language.svg" alt="Alt text" width="50"/>
+    <img src="logos\ISO_C++_Logo.svg" alt="Alt text" width="50"/>
+    <img src="logos\Git_icon.svg" alt="Alt text" width="50"/>
+    <img src="logos\java-svgrepo-com.svg" alt="Alt text" width="50"/>
+    <img src="logos\python-svgrepo-com.svg" alt="Alt text" width="50"/>
+    <img src="logos\linux-svgrepo-com.svg" alt="Alt text" width="50"/>
+</p>
+                    
+
 ### Socials
                   
-<p align="left"> <a href="https://www.github.com/TristanGaldys" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/tristangaldys" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/TristanGaldys" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
+<a href="https://www.linkedin.com/in/tristangaldys"> 
+    <img src="logos\LinkedIn_icon.svg" alt="Alt text" width="32"/>
+</a></p>
 
 ### Badges
 

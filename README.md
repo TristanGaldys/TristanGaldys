@@ -11,14 +11,25 @@ A recent Computer Engineering graduate with a passion for technology that took r
 *   🧠  I'm learning JavaScript
 *   🤝  I'm open to collaborating on literally anything                 
 
+<script> 
+    document.addEventListener("DOMContentLoaded", function() {
+        var images = document.querySelectorAll(".non-clickable");
+        images.forEach(function(img) {
+            img.addEventListener("click", function(event) {
+                event.preventDefault();
+            });
+        });
+    });
+</script>
+
 ### Skills 
 <p align="left">
-    <img src="logos\C_Programming_Language.svg" alt="Alt text" width="50"/>
-    <img src="logos\ISO_C++_Logo.svg" alt="Alt text" width="50"/>
-    <img src="logos\Git_icon.svg" alt="Alt text" width="50"/>
-    <img src="logos\java-svgrepo-com.svg" alt="Alt text" width="50"/>
-    <img src="logos\python-svgrepo-com.svg" alt="Alt text" width="50"/>
-    <img src="logos\linux-svgrepo-com.svg" alt="Alt text" width="50"/>
+    <img class="non-clickable" src="logos\C_Programming_Language.svg" alt="Alt text" width="50"/>
+    <img  class="non-clickable" src="logos\ISO_C++_Logo.svg" alt="Alt text" width="50"/>
+    <img class="non-clickable" src="logos\Git_icon.svg" alt="Alt text" width="50"/>
+    <img class="non-clickable" src="logos\java-svgrepo-com.svg" alt="Alt text" width="50"/>
+    <img class="non-clickable" src="logos\python-svgrepo-com.svg" alt="Alt text" width="50"/>
+    <img class="non-clickable" src="logos\linux-svgrepo-com.svg" alt="Alt text" width="50"/>
 </p>
                     
 

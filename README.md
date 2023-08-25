@@ -13,20 +13,20 @@ A recent Computer Engineering graduate with a passion for technology that took r
 
 ### Programming Languages 
 <p align="left">
-    <img src="logos\JavaScript.svg" alt="Alt text" width="50"/>
-    <img src="logos\python-svgrepo-com.svg" alt="Alt text" width="50"/>
-    <img src="logos\C_Programming_Language.svg" alt="Alt text" width="50"/>
-    <img src="logos\ISO_C++_Logo.svg" alt="Alt text" width="50"/>
-    <img src="logos\java-svgrepo-com.svg" alt="Alt text" width="50"/>
-    <img src="logos\HTML5.svg" alt="Alt text" width="50"/>
-    <img src="logos\CSS3.svg" alt="Alt text" width="50"/>
+    <img src="logos\JavaScript.svg" alt="JavaScript" width="50"/>
+    <img src="logos\python-svgrepo-com.svg" alt="Python" width="50"/>
+    <img src="logos\C_Programming_Language.svg" alt="C" width="50"/>
+    <img src="logos\ISO_C++_Logo.svg" alt="C++" width="50"/>
+    <img src="logos\java-svgrepo-com.svg" alt="Java" width="50"/>
+    <img src="logos\HTML5.svg" alt="HTML" width="50"/>
+    <img src="logos\CSS3.svg" alt="CSS" width="50"/>
 </p>
           
 ### Additional Skills 
 <p align="left">
-    <img src="logos\linux-svgrepo-com.svg" alt="Alt text" width="50"/>
-    <img src="logos\Git_icon.svg" alt="Alt text" width="50"/>
-    <img src="logos\SQLite.svg" alt="Alt text" height="50"/>
+    <img src="logos\linux-svgrepo-com.svg" alt="Linux" width="50"/>
+    <img src="logos\Git_icon.svg" alt="GIT" width="50"/>
+    <img src="logos\SQLite.svg" alt="SQL" height="50"/>
 </p>
                     
 

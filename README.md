@@ -9,6 +9,7 @@ A recent Computer Engineering graduate with a passion for technology that took r
 *   🌍  I'm based in Pennsylvania
 *   ✉️  You can contact me at [tristangaldys@gmail.com](mailto:tristangaldys@gmail.com)
 *   🧠  I'm learning Full Stack Development
+*   💼  I'm working on a Mobile App
 *   🤝  I'm open to collaborating on literally anything                 
 
 ### Programming Languages 

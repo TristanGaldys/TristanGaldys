@@ -27,6 +27,7 @@ A recent Computer Engineering graduate with a passion for technology that took r
     <img src="logos\linux-svgrepo-com.svg" alt="Linux" width="50"/>
     <img src="logos\Git_icon.svg" alt="GIT" width="50"/>
     <img src="logos\SQLite.svg" alt="SQL" height="50"/>
+    <img src="logos\firebase.svg" alt="SQL" height="50"/>
 </p>
                     
 

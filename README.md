@@ -20,6 +20,7 @@ A recent Computer Engineering graduate with a passion for technology that took r
     <img src="logos\java-svgrepo-com.svg" alt="Alt text" width="50"/>
     <img src="logos\HTML5.svg" alt="Alt text" width="50"/>
     <img src="logos\CSS3.svg" alt="Alt text" width="50"/>
+    <img src="logos\dart.svg" alt="Alt text" width="50"/>
 </p>
           
 ### Additional Skills 

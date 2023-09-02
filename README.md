@@ -1,7 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tristan Galdys
-======================================================================================================================================
-
-Computer Engineering Grad, Software Developer
+Computer Engineering Grad, Software Developer, Mobile Devoper
 -------------------------------------------
 
 A recent Computer Engineering graduate with a passion for technology that took root in the 4th grade with LEGO robotics and has only grown stronger over the years. My journey in the tech world has seen me delve deep into computer architecture, reflecting a natural evolution of my early interests. I have 2.5 years of experience in Python development and spent a year honing my skills as a Software Engineering Intern. My foundation in programming began with C++ and C, and I expanded my toolkit by diving into Java a year ago. Recently, I've been immersing myself in the realm of Artificial Intelligence, dedicating the last 6 months to AI studies. I'm currently pursuing a deep learning course, complemented by my newfound interest in JavaScript. Driven by dedication and an insatiable curiosity, I am actively seeking opportunities to leverage my skills and contribute to a forward-thinking team.
@@ -9,6 +7,7 @@ A recent Computer Engineering graduate with a passion for technology that took r
 *   🌍  I'm based in Pennsylvania
 *   ✉️  You can contact me at [tristangaldys@gmail.com](mailto:tristangaldys@gmail.com)
 *   🧠  I'm learning Full Stack Development
+*   💼  I'm working on a Mobile App
 *   🤝  I'm open to collaborating on literally anything                 
 
 ### Programming Languages 
@@ -25,9 +24,9 @@ A recent Computer Engineering graduate with a passion for technology that took r
           
 ### Additional Skills 
 <p align="left">
-    <img src="logos\linux-svgrepo-com.svg" alt="Alt text" width="50"/>
-    <img src="logos\Git_icon.svg" alt="Alt text" width="50"/>
-    <img src="logos\SQLite.svg" alt="Alt text" height="50"/>
+    <img src="logos\linux-svgrepo-com.svg" alt="Linux" width="50"/>
+    <img src="logos\Git_icon.svg" alt="GIT" width="50"/>
+    <img src="logos\SQLite.svg" alt="SQL" height="50"/>
 </p>
                     
 

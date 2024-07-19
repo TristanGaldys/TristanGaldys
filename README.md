@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineering Grad, Software Developer, Mod Developer
 -------------------------------------------
 
-A recent Computer Engineering graduate with a passion for technology that took root in the 4th grade with LEGO robotics and has only grown stronger over the years. My journey in the tech world has seen me delve deep into computer architecture, reflecting a natural evolution of my early interests. I have 2.5 years of experience in Python development and spent a year honing my skills as a Software Engineering Intern. My foundation in programming began with C++ and C, and I expanded my toolkit by diving into Java a year ago. Recently, I've been immersing myself in the realm of Artificial Intelligence, dedicating the last 6 months to AI studies. I'm currently pursuing a deep learning course, complemented by my newfound interest in JavaScript. Driven by dedication and an insatiable curiosity, I am actively seeking opportunities to leverage my skills and contribute to a forward-thinking team.
+A recent Computer Engineering graduate with a passion for technology that took root in the 4th grade with LEGO robotics and has only grown stronger over the years. My journey in the tech world has seen me delve deep into computer architecture, reflecting a natural evolution of my early interests. I have 4 years of experience in Python development and spent a year honing my skills as a Software Engineering Intern. My foundation in programming began with C++ and C, and I expanded my toolkit by diving into Java a year ago. Recently, I've been immersing myself in the realm of Artificial Intelligence, dedicating the last 6 months to AI studies. I'm currently pursuing a deep learning course, complemented by my newfound interest in JavaScript. Driven by dedication and an insatiable curiosity, I am actively seeking opportunities to leverage my skills and contribute to a forward-thinking team.
 
 *   🌍  I'm based in New York
 *   ✉️  You can contact me at [tristangaldys@gmail.com](mailto:tristangaldys@gmail.com)
@@ -21,6 +21,7 @@ A recent Computer Engineering graduate with a passion for technology that took r
     <img src="logos\HTML5.svg" alt="HTML5" width="50"/>
     <img src="logos\CSS3.svg" alt="CSS3" width="50"/>
     <img src="logos\Dart.svg" alt="Dart" width="50"/>
+    <img src="logos\Lua.svg" alt="Lua" width="50"/>
 </p>
           
 ### Additional Skills 

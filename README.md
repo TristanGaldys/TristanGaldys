@@ -11,17 +11,26 @@ I am a Computer Engineering graduate whose passion for technology ignited in the
 *   💼  I'm working on a [Mod](https://github.com/Raceless-RLS/rls_career_overhaul/tree/v2.0) for BeamNG
 *   🤝  I'm open to collaborating on literally anything                 
 
-### Programming Languages 
+### Scripting Languages 
 <p align="left">
     <img src="logos\JavaScript.svg" alt="JavaScript" width="50"/>
     <img src="logos\python-svgrepo-com.svg" alt="Python" width="50"/>
+    <img src="logos\Lua.svg" alt="Lua" width="50"/>
+</p>
+
+### Compiled Languages
+<p align="left">
     <img src="logos\C_Programming_Language.svg" alt="C" width="50"/>
     <img src="logos\ISO_C++_Logo.svg" alt="C++" width="50"/>
     <img src="logos\java-svgrepo-com.svg" alt="Java" width="50"/>
+</p>
+
+### Front-End Technologies
+<p align="left">
     <img src="logos\HTML5.svg" alt="HTML5" width="50"/>
     <img src="logos\CSS3.svg" alt="CSS3" width="50"/>
     <img src="logos\Dart.svg" alt="Dart" width="50"/>
-    <img src="logos\Lua.svg" alt="Lua" width="50"/>
+    <img src="logos\Vue3.svg" alt="Lua" width="50"/>
 </p>
           
 ### Additional Skills 

@@ -8,7 +8,7 @@ I am a Computer Engineering graduate whose passion for technology ignited in the
 *   🌍  I'm based in New York
 *   ✉️  You can contact me at [tristangaldys@gmail.com](mailto:tristangaldys@gmail.com)
 *   🧠  I'm learning Full Stack Development
-*   💼  I'm working on a [Mod](https://github.com/Raceless-RLS/rls_career_overhaul/tree/v2.0) for BeamNG
+*   💼  I'm working on [Mods](https://github.com/Raceless-RLS/rls_career_overhaul/tree/v2.0) for BeamNG
 *   🤝  I'm open to collaborating on literally anything                 
 
 ### Scripting Languages 
